@@ -1,0 +1,12 @@
+.hero {
+  background-image: url('./assets/home/desktop/image-hero.jpg');
+  color: var(--white);
+
+  &__container {
+    display: flex;
+
+    & > * {
+      width: 50%;
+    }
+  }
+}

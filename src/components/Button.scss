@@ -1,0 +1,14 @@
+@use '../util' as *;
+
+button {
+  font-weight: 700;
+  font-size: rem(13);
+  letter-spacing: rem(1);
+  text-transform: uppercase;
+}
+
+.button--1 {
+  color: var(--white);
+  background-color: var(--orange);
+  padding: rem(15) rem(30);
+}

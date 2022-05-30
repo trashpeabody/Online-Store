@@ -3,8 +3,12 @@ const path = require('path')
 const Dotenv = require('dotenv-webpack')
 
 const jsRules = {
-  test: /\.js$/,
+  test: /\.(js|jsx)$/,
+  exclude: /node_modules/,
   loader: 'babel-loader',
+  resolve: {
+    extensions: ['.js', '.jsx']
+  },
   options: {
     presets: [
       [
@@ -35,7 +39,7 @@ module.exports = (env, argv) => {
   const { mode } = argv
   const isProduction = mode === 'production'
   return {
-    entry: './src/index.js',
+    entry: './src/index.jsx',
     output: {
       filename: isProduction
         ? '[name].[contenthash].js'

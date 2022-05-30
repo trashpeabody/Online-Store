@@ -1,0 +1,51 @@
+@use "../util" as *;
+
+html {
+  font-size: 100%;
+  font-family: var(--font-body);
+  box-sizing: border-box;
+  height: 100%;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0 auto;
+  line-height: 1;
+  background-color: var(--white);
+  color: var(--very-dark-blue);
+  font-size: var(--par);
+  font-weight: 400;
+}
+
+#root {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  max-width: rem(1110);
+  margin: auto;
+  box-sizing: border-box;
+
+  @include breakpoint-down(medium) {
+    padding: 0 rem(36);
+  }
+
+  @include breakpoint-down(small) {
+    padding: 0;
+  }
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.bold {
+  font-weight: 700;
+}

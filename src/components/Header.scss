@@ -1,0 +1,36 @@
+@use "../util" as *;
+
+header {
+  background-color: var(--dark);
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: rem(32) 0 rem(36) 0;
+  border-bottom: 1px solid #979797;
+
+  &__logo {
+    width: rem(144);
+  }
+
+  &__cart {
+    width: rem(24);
+  }
+}
+
+nav {
+  display: flex;
+  gap: rem(34);
+  
+  a {
+    color: var(--white);
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: rem(13);
+    line-height: rem(25);
+    letter-spacing: rem(2);
+  }
+}
