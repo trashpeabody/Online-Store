@@ -5,10 +5,16 @@ button {
   font-size: rem(13);
   letter-spacing: rem(1);
   text-transform: uppercase;
+  cursor: pointer;
 }
 
 .button--1 {
   color: var(--white);
   background-color: var(--orange);
   padding: rem(15) rem(30);
+
+  & :hover {
+    background-color: var(--orange-light);
+    font-size: rem(20);
+  }
 }

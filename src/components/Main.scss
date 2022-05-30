@@ -1,12 +1,35 @@
+@use "../util" as *;
+
 .hero {
-  background-image: url('./assets/home/desktop/image-hero.jpg');
+  background-color: #191919;
+  background-image: url(./assets/home/desktop/image-hero.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
   color: var(--white);
+  height: rem(730);
 
   &__container {
     display: flex;
+    height: 100%;
 
     & > * {
-      width: 50%;
+      width: rem(400);
+      height: 100%;
+      display: flex;
+      align-items: flex-start;
+      flex-direction: column;
+      justify-content: center;
+    }
+  }
+
+  &__text {
+    & > h1 {
+      margin: rem(24) 0;
+    }
+
+    & > p {
+      width: rem(350);
+      margin-bottom: rem(40);
     }
   }
 }
