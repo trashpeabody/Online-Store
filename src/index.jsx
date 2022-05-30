@@ -1,10 +1,25 @@
-import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from './App'
+import {
+  BrowserRouter,
+  Routes,
+  Route
+} from 'react-router-dom'
+import { Home } from './components/Home'
+import { Footer } from './components/Footer'
+import { Header } from './components/Header'
 import './style.scss'
+import { Speakers } from './components/Speakers'
 
-ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
+const root = ReactDOM.createRoot(
+  document.getElementById('root')
+)
+root.render(
+  <BrowserRouter>
+    <Header />
+    <Routes>
+      <Route path='/' element={<Home />} />
+      <Route path='speakers' element={<Speakers />} />
+    </Routes>
+    <Footer />
+  </BrowserRouter>
 )

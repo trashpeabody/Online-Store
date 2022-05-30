@@ -1,4 +1,4 @@
-import { Button } from '../Generics/Button'
+import { Button } from '../generics/Button'
 
 export const Category = ({ category }) => {
   return (

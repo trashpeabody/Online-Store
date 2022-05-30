@@ -1,4 +1,4 @@
-import { Button } from '../Generics/Button'
+import { Button } from '../generics/Button'
 import speaker1 from '../../assets/home/desktop/image-speaker-zx9.png'
 import earphones from '../../assets/home/desktop/image-earphones-yx1.jpg'
 

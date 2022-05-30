@@ -1,7 +1,7 @@
-import { Categories } from './Home/Categories'
-import { Hero } from './Home/Hero'
-import { HighlightedItems } from './Home/HighlightedItems'
-import { AboutUs } from './Home/AboutUs'
+import { Categories } from './home/Categories'
+import { Hero } from './home/Hero'
+import { HighlightedItems } from './home/HighlightedItems'
+import { AboutUs } from './home/AboutUs'
 
 export const Home = () => {
   return (
