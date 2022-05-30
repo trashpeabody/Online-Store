@@ -1,0 +1,69 @@
+@use '../../util' as *;
+
+button {
+  font-weight: 700;
+  font-size: rem(13);
+  letter-spacing: rem(1);
+  text-transform: uppercase;
+  cursor: pointer;
+  padding: rem(15) rem(30);
+}
+
+.button--1 {
+  color: var(--white);
+  background-color: var(--orange);
+
+  &:hover {
+    background-color: var(--orange-light);
+  }
+}
+
+.button--2 {
+  color: var(--black);
+  background-color: transparent;
+  border: 1px solid var(--black);
+
+  &:hover {
+    color: var(--white);
+    background-color: var(--black);
+  }
+}
+
+.button--4 {
+  color: var(--white);
+  background-color: var(--black);
+
+  &:hover {
+    background-color: #4c4c4c;
+  }
+}
+
+.button--3 {
+  color: rgba(0, 0, 0, 0.5);
+  position: relative;
+  padding: 0;
+
+  &:hover {
+    color: var(--orange);
+  }
+
+  &::after, &::before {
+    content: '';
+    position: absolute;
+    width: rem(7);
+    height: rem(2);
+    background-color: var(--orange);
+  }
+
+  &::after {
+    transform: rotate(45deg);
+    right: rem(-10);
+    top: 30%;
+  }
+
+  &::before {
+    transform: rotate(-45deg);
+    right: rem(-10);
+    top: 58%;
+  }
+}

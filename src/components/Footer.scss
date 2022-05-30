@@ -1,0 +1,59 @@
+@use '../util/' as *;
+
+footer {
+  background-color: var(--dark);
+  padding: rem(75) 0 rem(48) 0;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.footer {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: rem(28);
+  position: relative;
+
+  &::before {
+    content: '';
+    position: absolute;
+    width: rem(100);
+    height: rem(4);
+    background-color: var(--orange);
+    top: rem(-75);
+    left: 0;
+  }
+
+  &__text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+    img {
+      margin-bottom: rem(36);
+    }
+
+    p {
+      margin-bottom: rem(56);
+    }
+  }
+
+  &__nav {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: rem(105);
+  }
+
+  &__rrss {
+    display: flex;
+    align-items: center;
+    gap: rem(16);
+
+    img {
+      width: rem(24);
+
+      &:hover {
+        filter: invert(57%) sepia(9%) saturate(2852%) hue-rotate(338deg) brightness(96%) contrast(96%);
+      }
+    }
+  }
+}

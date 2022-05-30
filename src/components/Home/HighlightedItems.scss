@@ -1,0 +1,69 @@
+@use '../../util' as *;
+
+.highlighted-items {
+  display: flex;
+  flex-direction: column;
+  gap: rem(48);
+  color: var(--black);
+  margin-bottom: rem(200);
+
+  &__text {
+    width: rem(350);
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: rem(24);
+  }
+
+  & > div {
+    border-radius: rem(8);
+    display: flex;
+  }
+
+  & > div:nth-child(1) {
+    height: rem(560);
+    background-color: var(--orange);
+    color: var(--white);
+    background-image: url('./assets/home/desktop/pattern-circles.svg');
+    background-repeat: no-repeat;
+    background-position: -100% 5%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    overflow: hidden;
+
+    img {
+      width: rem(410);
+      align-self: flex-end;
+      margin-bottom: rem(-12);
+    }
+  }
+
+  & > div:nth-child(2) {
+    height: rem(320);
+    background-image: url('./assets/home/desktop/image-speaker-zx7.jpg');
+    padding-left: rem(95);
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  & > div:nth-child(3) {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: rem(30);
+
+    & > div {
+      background-color: var(--grey);
+      width: 100%;
+      border-radius: rem(8);
+      display: flex;
+      flex-direction: column;
+      padding-left: rem(95);
+      justify-content: center;
+    }
+
+    img {
+      border-radius: rem(8);
+    }
+  }
+}

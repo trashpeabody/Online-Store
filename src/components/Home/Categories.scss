@@ -1,0 +1,29 @@
+@use '../../util' as *;
+
+.categories {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: rem(30);
+
+  & > div {
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: var(--grey-light);
+    height: rem(204);
+    justify-content: end;
+    align-items: center;
+    gap: rem(15);
+    margin: rem(200) auto rem(168) auto;
+    border-radius: rem(8);
+    padding-bottom: rem(32);
+
+    img {
+      width: rem(220);
+      position: absolute;
+      top: -40%;
+    }
+  }
+}

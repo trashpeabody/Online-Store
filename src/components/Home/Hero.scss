@@ -1,4 +1,4 @@
-@use "../util" as *;
+@use "../../util" as *;
 
 .hero {
   background-color: #191919;
@@ -23,6 +23,9 @@
   }
 
   &__text {
+    & > span {
+      color: rgba(255, 255, 255, 0.5);
+    }
     & > h1 {
       margin: rem(24) 0;
     }

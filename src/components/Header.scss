@@ -1,7 +1,7 @@
 @use "../util" as *;
 
 header {
-  position:fixed;
+  position:absolute;
   top: 0;
   width: 100%;
 }
@@ -34,5 +34,9 @@ nav {
     font-size: rem(13);
     line-height: rem(25);
     letter-spacing: rem(2);
+
+    &:hover {
+      color: var(--orange);
+    }
   }
 }
