@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "headphones",
+    "imgSrc": headphonesImg
+  },
+  {
+    "id": 2,
+    "name": 'speakers',
+    "imgSrc": speakersImg
+  },
+  {
+    "id": 3,
+    "name": 'earphones',
+    "imgSrc": earphonesImg
+  }
+]

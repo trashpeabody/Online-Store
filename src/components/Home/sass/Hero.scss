@@ -8,9 +8,19 @@
   color: var(--white);
   height: rem(730);
 
+  @include breakpoint-down(medium) {
+    background-image: url(./assets/home/tablet/image-header.jpg);
+    background-size: contain;
+  }
+
   &__container {
     display: flex;
     height: 100%;
+
+    @include breakpoint-down(medium) {
+      justify-content: center;
+      text-align: center;
+    }
 
     & > * {
       width: rem(400);
@@ -19,6 +29,11 @@
       align-items: flex-start;
       flex-direction: column;
       justify-content: center;
+
+      @include breakpoint-down(medium) {
+        width: rem(380);
+        align-items: center;
+      }
     }
   }
 

@@ -3,7 +3,10 @@
 header {
   position:absolute;
   top: 0;
+  left: 50%;
+  transform: translateX(-50%);
   width: 100%;
+  z-index: 1;
 }
 
 .header {
@@ -11,19 +14,118 @@ header {
   align-items: center;
   justify-content: space-between;
   width: 100%;
-  padding: rem(32) 0 rem(36) 0;
+  padding-top: rem(32);
+  padding-bottom: rem(36);
   border-bottom: 1px solid #979797;
+
+  @include breakpoint-down(medium) {
+    display: grid;
+    grid-template-columns: auto auto 1fr;
+    justify-items: end;
+    border-bottom-color:  rgba(150, 150, 150, 0.1);
+  }
 
   &__logo {
     width: rem(144);
+
+    @include breakpoint-down(medium) {
+      margin-left: rem(42);
+    }
   }
 
   &__cart {
     width: rem(24);
+
+    &--button {
+      @include breakpoint-down(medium) {
+        grid-column: 3;
+        grid-row: 1;
+      }
+    }
+  }
+
+  &__nav {
+    &--desktop {
+      @include breakpoint-down(medium) {
+        display: none;
+      }
+    }
+
+    &--tablet {
+      position: absolute;
+      width: 100%;
+      left: 0;
+      background-color: white;
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      border-radius: rem(8);
+
+      @include breakpoint(large) {
+        display: none;
+      }
+
+      h6 {
+        color: var(--black);
+      }
+
+      .categories__item {
+        margin: rem(124) auto rem(67) auto;
+        height: rem(176);
+
+        img {
+          width: rem(160);
+        }
+      }
+    }
+  }
+
+  button {
+    padding: 0;
   }
 }
 
-nav {
+.background-disabled {
+  width: 100%;
+  height: 100vh;
+  background-color: rgba(255, 255, 255, 0.5);
+  position: absolute;
+  top: 90px;
+  left: 0;
+  z-index: 1;
+
+  @include breakpoint(large) {
+    display: none;
+  }
+}
+
+.burger {
+  width: rem(16);
+  height: rem(3);
+  background-color: var(--white);
+  position: relative;
+
+  @include breakpoint(large) {
+    display: none;
+  }
+
+  &::before, &::after {
+    content: '';
+    width: rem(16);
+    height: rem(3);
+    background-color: var(--white);
+    position: absolute;
+  }
+
+  &::before {
+    top: rem(6);
+  }
+
+  &::after {
+    top: rem(-6);
+  } 
+}
+
+nav ul{
   display: flex;
   gap: rem(34);
   

@@ -1,0 +1,42 @@
+@use '../../util/' as *;
+
+.products {
+  margin: rem(160) auto rem(80) auto;
+  display: flex;
+  flex-direction: column;
+  gap: rem(160);
+
+  &__container {
+    width: 100%;
+    display: flex;
+    gap: rem(125);
+
+    img {
+      width: rem(540);
+    }
+
+    &:nth-child(2n) {
+      flex-direction: row-reverse;
+    }
+  }
+
+  &__info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    width: rem(445);
+
+    span {
+      margin-bottom: rem(16);
+    }
+
+    h2 {
+      margin-bottom: rem(32);
+    }
+
+    p {
+      margin-bottom: rem(40);
+    }
+  }
+}

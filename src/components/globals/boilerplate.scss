@@ -32,6 +32,11 @@ body {
   max-width: rem(1110);
   margin: auto;
   box-sizing: border-box;
+  padding: 0 rem(36);
+
+  @include breakpoint(xlarge) {
+    padding: auto;
+  }
 
   @include breakpoint-down(medium) {
     padding: 0 rem(36);
@@ -48,4 +53,9 @@ body {
 
 .bold {
   font-weight: 700;
+}
+
+main {
+  position: relative; 
+  z-index: 0;
 }

@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "slug": "yx1-earphones",
+    "name": "YX1 Wireless Earphones",
+    "image": {
+      "mobile": "https://ucarecdn.com/019204a6-6b89-496f-b003-6530740cdc2b/",
+      "tablet": "https://ucarecdn.com/62246322-8dc6-4e92-884f-a5f6e30552e0/",
+      "desktop": "https://ucarecdn.com/23159e66-263e-4a39-b340-ab2ca9539090/"
+    },
+    "category": "earphones",
+    "categoryImage": {
+      "mobile": "https://ucarecdn.com/efec8e4d-3ff9-4dec-9b7b-a9c77c3a5e44/",
+      "tablet": "https://ucarecdn.com/25c7981e-efb6-497e-96db-357dc8333196/",
+      "desktop": "https://ucarecdn.com/3d470e36-87e7-4d60-9c11-6324e9fe5633/"
+    },
+    "new": true,
+    "price": 599,
+    "description": "Tailor your listening experience with bespoke dynamic drivers from the new YX1 Wireless Earphones. Enjoy incredible high-fidelity sound even in noisy environments with its active noise cancellation feature.",
+    "features": "Experience unrivalled stereo sound thanks to innovative acoustic technology. With improved ergonomics designed for full day wearing, these revolutionary earphones have been finely crafted to provide you with the perfect fit, delivering complete comfort all day long while enjoying exceptional noise isolation and truly immersive sound.\n\nThe YX1 Wireless Earphones features customizable controls for volume, music, calls, and voice assistants built into both earbuds. The new 7-hour battery life can be extended up to 28 hours with the charging case, giving you uninterrupted play time. Exquisite craftsmanship with a splash resistant design now available in an all new white and grey color scheme as well as the popular classic black.",
+    "includes": [
+      {
+        "quantity": 2,
+        "item": "Earphone unit"
+      },
+      {
+        "quantity": 6,
+        "item": "Multi-size earplugs"
+      },
+      {
+        "quantity": 1,
+        "item": "User manual"
+      },
+      {
+        "quantity": 1,
+        "item": "USB-C charging cable"
+      },
+      {
+        "quantity": 1,
+        "item": "Travel pouch"
+      }
+    ],
+    "gallery": {
+      "first": {
+        "mobile": "https://ucarecdn.com/b796d16c-bf61-4c9e-8d81-c72edc86a8c3/",
+        "tablet": "https://ucarecdn.com/7b9d9d46-9892-4037-bbd7-b3536eaba325/",
+        "desktop": "https://ucarecdn.com/26772be3-958b-4d0d-ae5f-46bc7782b2ed/"
+      },
+      "second": {
+        "mobile": "https://ucarecdn.com/507b8fa5-fdb6-4a88-bfe0-9ac366250e5f/",
+        "tablet": "https://ucarecdn.com/3d5028ef-3cbb-463c-bd12-5ee22bd015f3/",
+        "desktop": "https://ucarecdn.com/2c92264b-e177-4ca0-9f6e-f1d4b8979429/"
+      },
+      "third": {
+        "mobile": "https://ucarecdn.com/c6537350-6a4a-4b68-9dd6-b7504540bac7/",
+        "tablet": "https://ucarecdn.com/8c4cd974-690e-4c86-9a18-3da193d86ac6/",
+        "desktop": "https://ucarecdn.com/87fa1163-2656-4ad5-b443-45b294b1cfca/"
+      }
+    },
+    "others": [
+      {
+        "slug": "xx99-mark-one-headphones",
+        "name": "XX99 Mark I",
+        "image": {
+          "mobile": "https://ucarecdn.com/1b9604b1-2c17-4070-ba01-bf89f98db52c/",
+          "tablet": "https://ucarecdn.com/ab636fd9-287c-4c98-90c1-988b7d6d4c48/",
+          "desktop": "https://ucarecdn.com/2643d1b6-f436-4868-ac72-4fec7486897a/"
+        }
+      },
+      {
+        "slug": "xx59-headphones",
+        "name": "XX59",
+        "image": {
+          "mobile": "https://ucarecdn.com/dfaabfdd-3876-4a2e-af03-8789b603a7d9/",
+          "tablet": "https://ucarecdn.com/2a673070-6127-422c-a358-b4afe8841a75/",
+          "desktop": "https://ucarecdn.com/7fd2c0ce-7ed9-4179-90fe-30f8c00c663c/"
+        }
+      },
+      {
+        "slug": "zx9-speaker",
+        "name": "ZX9 Speaker",
+        "image": {
+          "mobile": "https://ucarecdn.com/5c34abf0-579a-4cbc-85d0-c9e5a5f0ac85/",
+          "tablet": "https://ucarecdn.com/d19852d0-b7ac-455b-b4d5-be9f1533072a/",
+          "desktop": "https://ucarecdn.com/f1f541db-7361-4dc5-af4b-3b9aa0dc8a58/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "xx59-headphones",
+    "name": "XX59 Headphones",
+    "image": {
+      "mobile": "https://ucarecdn.com/d843a7cd-e02d-44bf-a38a-965832b67bad/",
+      "tablet": "https://ucarecdn.com/6459b609-94e6-4cce-bc13-81042d93b6fb/",
+      "desktop": "https://ucarecdn.com/7555cc8a-782c-4192-8300-b1d79a5d8ee2/"
+    },
+    "category": "headphones",
+    "categoryImage": {
+      "mobile": "https://ucarecdn.com/ef685186-a7b6-4fbf-9881-45fb428deb13/",
+      "tablet": "https://ucarecdn.com/9cfe53ce-3931-462a-8c38-84faee5aa2b9/",
+      "desktop": "https://ucarecdn.com/880d0fd7-f485-4085-ae0c-1a2d7940cfc9/"
+    },
+    "new": false,
+    "price": 899,
+    "description": "Enjoy your audio almost anywhere and customize it to your specific tastes with the XX59 headphones. The stylish yet durable versatile wireless headset is a brilliant companion at home or on the move.",
+    "features": "These headphones have been created from durable, high-quality materials tough enough to take anywhere. Its compact folding design fuses comfort and minimalist style making it perfect for travel. Flawless transmission is assured by the latest wireless technology engineered for audio synchronization with videos.\n\nMore than a simple pair of headphones, this headset features a pair of built-in microphones for clear, hands-free calling when paired with a compatible smartphone. Controlling music and calls is also intuitive thanks to easy-access touch buttons on the earcups. Regardless of how you use the XX59 headphones, you can do so all day thanks to an impressive 30-hour battery life that can be rapidly recharged via USB-C.",
+    "includes": [
+      {
+        "quantity": 1,
+        "item": "Headphone unit"
+      },
+      {
+        "quantity": 2,
+        "item": "Replacement earcups"
+      },
+      {
+        "quantity": 1,
+        "item": "User manual"
+      },
+      {
+        "quantity": 1,
+        "item": "3.5mm 5m audio cable"
+      }
+    ],
+    "gallery": {
+      "first": {
+        "mobile": "https://ucarecdn.com/6d602fb2-9e5a-4f98-808f-3bea47f8c8a9/",
+        "tablet": "https://ucarecdn.com/9d252dc6-09f7-4e9c-99ed-f82a8b79b074/",
+        "desktop": "https://ucarecdn.com/b597f310-64dd-4269-a798-fe76ca2f3c3d/"
+      },
+      "second": {
+        "mobile": "https://ucarecdn.com/4da25dcb-0972-44a0-9a4e-8f8494ba7c9a/",
+        "tablet": "https://ucarecdn.com/1dafd177-6169-4538-99e2-bb906058c29c/",
+        "desktop": "https://ucarecdn.com/69853fe3-6b00-483b-9584-da093b3bc9c8/"
+      },
+      "third": {
+        "mobile": "https://ucarecdn.com/bbff64f2-1dc8-4a32-8e58-0775f20fd3ad/",
+        "tablet": "https://ucarecdn.com/246ff5dd-8b5b-4aa7-843d-f95c98229a54/",
+        "desktop": "https://ucarecdn.com/c8037a01-72ea-4f1d-a80d-8de73b03a321/"
+      }
+    },
+    "others": [
+      {
+        "slug": "xx99-mark-two-headphones",
+        "name": "XX99 Mark II",
+        "image": {
+          "mobile": "https://ucarecdn.com/cac61b68-94a8-425b-998d-8ac5e64a691d/",
+          "tablet": "https://ucarecdn.com/e19677f6-d52c-41cb-a752-c948c5273124/",
+          "desktop": "https://ucarecdn.com/321651d7-ba25-469f-9411-e26d0543d4b2/"
+        }
+      },
+      {
+        "slug": "xx99-mark-one-headphones",
+        "name": "XX99 Mark I",
+        "image": {
+          "mobile": "https://ucarecdn.com/1b9604b1-2c17-4070-ba01-bf89f98db52c/",
+          "tablet": "https://ucarecdn.com/ab636fd9-287c-4c98-90c1-988b7d6d4c48/",
+          "desktop": "https://ucarecdn.com/2643d1b6-f436-4868-ac72-4fec7486897a/"
+        }
+      },
+      {
+        "slug": "zx9-speaker",
+        "name": "ZX9 Speaker",
+        "image": {
+          "mobile": "https://ucarecdn.com/5c34abf0-579a-4cbc-85d0-c9e5a5f0ac85/",
+          "tablet": "https://ucarecdn.com/d19852d0-b7ac-455b-b4d5-be9f1533072a/",
+          "desktop": "https://ucarecdn.com/f1f541db-7361-4dc5-af4b-3b9aa0dc8a58/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "xx99-mark-one-headphones",
+    "name": "XX99 Mark I Headphones",
+    "image": {
+      "mobile": "https://ucarecdn.com/a2ba7bb2-8141-45f9-bb44-fa64c8c8a6ed/",
+      "tablet": "https://ucarecdn.com/cc710d6d-935b-4c05-8842-b77513f19e5d/",
+      "desktop": "https://ucarecdn.com/f917de07-d59d-48bd-8687-ccbf333cf256/"
+    },
+    "category": "headphones",
+    "categoryImage": {
+      "mobile": "https://ucarecdn.com/01b998c7-1a09-4e83-86dc-9fee21679602/",
+      "tablet": "https://ucarecdn.com/5d3a65e9-a03f-4c93-acab-bf5b0b44d3e6/",
+      "desktop": "https://ucarecdn.com/38920032-9d62-490c-b1a0-a619062ee1dc/"
+    },
+    "new": false,
+    "price": 1750,
+    "description": "As the gold standard for headphones, the classic XX99 Mark I offers detailed and accurate audio reproduction for audiophiles, mixing engineers, and music aficionados alike in studios and on the go.",
+    "features": "As the headphones all others are measured against, the XX99 Mark I demonstrates over five decades of audio expertise, redefining the critical listening experience. This pair of closed-back headphones are made of industrial, aerospace-grade materials to emphasize durability at a relatively light weight of 11 oz.\n\nFrom the handcrafted microfiber ear cushions to the robust metal headband with inner damping element, the components work together to deliver comfort and uncompromising sound. Its closed-back design delivers up to 27 dB of passive noise cancellation, reducing resonance by reflecting sound to a dedicated absorber. For connectivity, a specially tuned cable is includes with a balanced gold connector.",
+    "includes": [
+      {
+        "quantity": 1,
+        "item": "Headphone unit"
+      },
+      {
+        "quantity": 2,
+        "item": "Replacement earcups"
+      },
+      {
+        "quantity": 1,
+        "item": "User manual"
+      },
+      {
+        "quantity": 1,
+        "item": "3.5mm 5m audio cable"
+      }
+    ],
+    "gallery": {
+      "first": {
+        "mobile": "https://ucarecdn.com/df99980d-35a7-41da-a527-9c0833ef39f5/",
+        "tablet": "https://ucarecdn.com/13863e76-e93e-4cae-8957-64a6239fbed8/",
+        "desktop": "https://ucarecdn.com/e1376b6d-8355-476f-b3a1-6c6efd5e7c1b/"
+      },
+      "second": {
+        "mobile": "https://ucarecdn.com/bec08ed4-362d-443d-8e64-8e421e16415e/",
+        "tablet": "https://ucarecdn.com/bd2103b1-3cb4-4231-aeaf-1e32769e0ca0/",
+        "desktop": "https://ucarecdn.com/61a448ca-cddd-407e-8cfe-0208d77e384b/"
+      },
+      "third": {
+        "mobile": "https://ucarecdn.com/9f6b9009-857a-4b56-9282-f5484a0b4206/",
+        "tablet": "https://ucarecdn.com/6d6c2bde-9df6-49fc-a1de-25328ddafd54/",
+        "desktop": "https://ucarecdn.com/23b63813-f2e4-4fa1-8a02-3c258d077be7/"
+      }
+    },
+    "others": [
+      {
+        "slug": "xx99-mark-two-headphones",
+        "name": "XX99 Mark II",
+        "image": {
+          "mobile": "https://ucarecdn.com/cac61b68-94a8-425b-998d-8ac5e64a691d/",
+          "tablet": "https://ucarecdn.com/e19677f6-d52c-41cb-a752-c948c5273124/",
+          "desktop": "https://ucarecdn.com/321651d7-ba25-469f-9411-e26d0543d4b2/"
+        }
+      },
+      {
+        "slug": "xx59-headphones",
+        "name": "XX59",
+        "image": {
+          "mobile": "https://ucarecdn.com/dfaabfdd-3876-4a2e-af03-8789b603a7d9/",
+          "tablet": "https://ucarecdn.com/2a673070-6127-422c-a358-b4afe8841a75/",
+          "desktop": "https://ucarecdn.com/7fd2c0ce-7ed9-4179-90fe-30f8c00c663c/"
+        }
+      },
+      {
+        "slug": "zx9-speaker",
+        "name": "ZX9 Speaker",
+        "image": {
+          "mobile": "https://ucarecdn.com/5c34abf0-579a-4cbc-85d0-c9e5a5f0ac85/",
+          "tablet": "https://ucarecdn.com/d19852d0-b7ac-455b-b4d5-be9f1533072a/",
+          "desktop": "https://ucarecdn.com/f1f541db-7361-4dc5-af4b-3b9aa0dc8a58/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "xx99-mark-two-headphones",
+    "name": "XX99 Mark II Headphones",
+    "image": {
+      "mobile": "https://ucarecdn.com/7e6cf35a-520b-4714-a932-c5cd839f0a26/",
+      "tablet": "https://ucarecdn.com/2518e5a3-4ee4-46ed-9613-19c93ba1bffc/",
+      "desktop": "https://ucarecdn.com/8aa439a3-15b7-41dc-9b39-44d6aed696ca/"
+    },
+    "category": "headphones",
+    "categoryImage": {
+      "mobile": "https://ucarecdn.com/b452112f-b26d-42ad-b621-1d0fe532406c/",
+      "tablet": "https://ucarecdn.com/43c4a64b-19ff-4fc1-a5fb-3aa320faa66f/",
+      "desktop": "https://ucarecdn.com/10cb6a93-0aa8-4c41-ab49-681fbe637efd/"
+    },
+    "new": true,
+    "price": 2999,
+    "description": "The new XX99 Mark II headphones is the pinnacle of pristine audio. It redefines your premium headphone experience by reproducing the balanced depth and precision of studio-quality sound.",
+    "features": "Featuring a genuine leather head strap and premium earcups, these headphones deliver superior comfort for those who like to enjoy endless listening. It includes intuitive controls designed for any situation. Whether you’re taking a business call or just in your own personal space, the auto on/off and pause features ensure that you’ll never miss a beat.\n\nThe advanced Active Noise Cancellation with built-in equalizer allow you to experience your audio world on your terms. It lets you enjoy your audio in peace, but quickly interact with your surroundings when you need to. Combined with Bluetooth 5. 0 compliant connectivity and 17 hour battery life, the XX99 Mark II headphones gives you superior sound, cutting-edge technology, and a modern design aesthetic.",
+    "includes": [
+      {
+        "quantity": 1,
+        "item": "Headphone unit"
+      },
+      {
+        "quantity": 2,
+        "item": "Replacement earcups"
+      },
+      {
+        "quantity": 1,
+        "item": "User manual"
+      },
+      {
+        "quantity": 1,
+        "item": "3.5mm 5m audio cable"
+      },
+      {
+        "quantity": 1,
+        "item": "Travel bag"
+      }
+    ],
+    "gallery": {
+      "first": {
+        "mobile": "https://ucarecdn.com/7131b4aa-1dcc-4bbe-a02a-729fca5b1df4/",
+        "tablet": "https://ucarecdn.com/16167443-4ce1-426e-afff-c71dd93b0d4e/",
+        "desktop": "https://ucarecdn.com/6599efbd-deed-4a00-b57c-e9ee9b502d76/"
+      },
+      "second": {
+        "mobile": "https://ucarecdn.com/3e14f7ab-f2c4-45f1-89c9-9854934e422e/",
+        "tablet": "https://ucarecdn.com/d948fa86-5982-44f3-8d5d-f2b7b3a477f1/",
+        "desktop": "https://ucarecdn.com/d2f0ed1b-f849-4fd3-8783-194e0018e1c7/"
+      },
+      "third": {
+        "mobile": "https://ucarecdn.com/8eab50d3-a1ba-46ed-8ab6-b0aa2767f298/",
+        "tablet": "https://ucarecdn.com/338a6447-4ff1-4e96-9c93-d3d7e3ee4823/",
+        "desktop": "https://ucarecdn.com/60187007-70fc-4806-8c0d-fde861ee94a1/"
+      }
+    },
+    "others": [
+      {
+        "slug": "xx99-mark-one-headphones",
+        "name": "XX99 Mark I",
+        "image": {
+          "mobile": "https://ucarecdn.com/1b9604b1-2c17-4070-ba01-bf89f98db52c/",
+          "tablet": "https://ucarecdn.com/ab636fd9-287c-4c98-90c1-988b7d6d4c48/",
+          "desktop": "https://ucarecdn.com/2643d1b6-f436-4868-ac72-4fec7486897a/"
+        }
+      },
+      {
+        "slug": "xx59-headphones",
+        "name": "XX59",
+        "image": {
+          "mobile": "https://ucarecdn.com/dfaabfdd-3876-4a2e-af03-8789b603a7d9/",
+          "tablet": "https://ucarecdn.com/2a673070-6127-422c-a358-b4afe8841a75/",
+          "desktop": "https://ucarecdn.com/7fd2c0ce-7ed9-4179-90fe-30f8c00c663c/"
+        }
+      },
+      {
+        "slug": "zx9-speaker",
+        "name": "ZX9 Speaker",
+        "image": {
+          "mobile": "https://ucarecdn.com/5c34abf0-579a-4cbc-85d0-c9e5a5f0ac85/",
+          "tablet": "https://ucarecdn.com/d19852d0-b7ac-455b-b4d5-be9f1533072a/",
+          "desktop": "https://ucarecdn.com/f1f541db-7361-4dc5-af4b-3b9aa0dc8a58/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "zx7-speaker",
+    "name": "ZX7 Speaker",
+    "image": {
+      "mobile": "https://ucarecdn.com/c309e86c-5080-482d-9ef3-daa5bb891ac7/",
+      "tablet": "https://ucarecdn.com/447db27c-8a71-47a8-aaf2-e1ca8ea0393d/",
+      "desktop": "https://ucarecdn.com/4014844d-0b00-418e-a11e-289ebcfa9642/"
+    },
+    "category": "speakers",
+    "categoryImage": {
+      "mobile": "https://ucarecdn.com/ab177df2-ea5f-447c-ba59-d630bd5e20dc/",
+      "tablet": "https://ucarecdn.com/0479208a-b2e9-4174-baeb-e67158f31724/",
+      "desktop": "https://ucarecdn.com/1202c8bd-c124-416f-a9bf-3b89d1b3d98d/"
+    },
+    "new": false,
+    "price": 3500,
+    "description": "Stream high quality sound wirelessly with minimal to no loss. The ZX7 speaker uses high-end audiophile components that represents the top of the line powered speakers for home or studio use.",
+    "features": "Reap the advantages of a flat diaphragm tweeter cone. This provides a fast response rate and excellent high frequencies that lower tiered bookshelf speakers cannot provide. The woofers are made from aluminum that produces a unique and clear sound. XLR inputs allow you to connect to a mixer for more advanced usage.\n\nThe ZX7 speaker is the perfect blend of stylish design and high performance. It houses an encased MDF wooden enclosure which minimises acoustic resonance. Dual connectivity allows pairing through bluetooth or traditional optical and RCA input. Switch input sources and control volume at your finger tips with the included wireless remote. This versatile speaker is equipped to deliver an authentic listening experience.",
+    "includes": [
+      {
+        "quantity": 2,
+        "item": "Speaker unit"
+      },
+      {
+        "quantity": 2,
+        "item": "Speaker cloth panel"
+      },
+      {
+        "quantity": 1,
+        "item": "User manual"
+      },
+      {
+        "quantity": 1,
+        "item": "3.5mm 7.5m audio cable"
+      },
+      {
+        "quantity": 1,
+        "item": "7.5m optical cable"
+      }
+    ],
+    "gallery": {
+      "first": {
+        "mobile": "https://ucarecdn.com/0387b42e-b45d-4209-bb5e-10db6f6dde9b/",
+        "tablet": "https://ucarecdn.com/27e3b01b-843c-4658-a302-e0bf7fe5b4fe/",
+        "desktop": "https://ucarecdn.com/348534b4-0542-4f1d-b66d-bea1f6675fd4/"
+      },
+      "second": {
+        "mobile": "https://ucarecdn.com/608ef19b-be37-49a6-8da3-8fd2da21d2b3/",
+        "tablet": "https://ucarecdn.com/c8cf1db9-3b93-4054-b249-2763c055e636/",
+        "desktop": "https://ucarecdn.com/8d96dbc1-57ed-44d9-ae39-2d284ce3d942/"
+      },
+      "third": {
+        "mobile": "https://ucarecdn.com/fb954b86-f8b9-45ce-951f-87282da2768e/",
+        "tablet": "https://ucarecdn.com/59ade224-e9e1-4c3f-9d63-27d0630d01fb/",
+        "desktop": "https://ucarecdn.com/a06c8d3f-cc3e-4553-ae13-96f486ebb2fc/"
+      }
+    },
+    "others": [
+      {
+        "slug": "zx9-speaker",
+        "name": "ZX9 Speaker",
+        "image": {
+          "mobile": "https://ucarecdn.com/5c34abf0-579a-4cbc-85d0-c9e5a5f0ac85/",
+          "tablet": "https://ucarecdn.com/d19852d0-b7ac-455b-b4d5-be9f1533072a/",
+          "desktop": "https://ucarecdn.com/f1f541db-7361-4dc5-af4b-3b9aa0dc8a58/"
+        }
+      },
+      {
+        "slug": "xx99-mark-one-headphones",
+        "name": "XX99 Mark I",
+        "image": {
+          "mobile": "https://ucarecdn.com/1b9604b1-2c17-4070-ba01-bf89f98db52c/",
+          "tablet": "https://ucarecdn.com/ab636fd9-287c-4c98-90c1-988b7d6d4c48/",
+          "desktop": "https://ucarecdn.com/2643d1b6-f436-4868-ac72-4fec7486897a/"
+        }
+      },
+      {
+        "slug": "xx59-headphones",
+        "name": "XX59",
+        "image": {
+          "mobile": "https://ucarecdn.com/dfaabfdd-3876-4a2e-af03-8789b603a7d9/",
+          "tablet": "https://ucarecdn.com/2a673070-6127-422c-a358-b4afe8841a75/",
+          "desktop": "https://ucarecdn.com/7fd2c0ce-7ed9-4179-90fe-30f8c00c663c/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "zx9-speaker",
+    "name": "ZX9 Speaker",
+    "image": {
+      "mobile": "https://ucarecdn.com/cd96f9ee-7222-4b9b-9ec8-98f8682401ba/",
+      "tablet": "https://ucarecdn.com/3a0f70c9-47f1-4301-89eb-3604006e47de/",
+      "desktop": "https://ucarecdn.com/7fbbc718-60ae-4e1c-ad42-42447e186bef/"
+    },
+    "category": "speakers",
+    "categoryImage": {
+      "mobile": "https://ucarecdn.com/183b291c-9483-48dc-97b1-a788ecbedf03/",
+      "tablet": "https://ucarecdn.com/475ed142-a391-4172-bb6b-24813af01ea6/",
+      "desktop": "https://ucarecdn.com/48035e92-b33a-48df-aa8d-7fe428e58493/"
+    },
+    "new": true,
+    "price": 4500,
+    "description": "Upgrade your sound system with the all new ZX9 active speaker. It’s a bookshelf speaker system that offers truly wireless connectivity -- creating new possibilities for more pleasing and practical audio setups.",
+    "features": "Connect via Bluetooth or nearly any wired source. This speaker features optical, digital coaxial, USB Type-B, stereo RCA, and stereo XLR inputs, allowing you to have up to five wired source devices connected for easy switching. Improved bluetooth technology offers near lossless audio quality at up to 328ft (100m).\n\nDiscover clear, more natural sounding highs than the competition with ZX9’s signature planar diaphragm tweeter. Equally important is its powerful room-shaking bass courtesy of a 6.5” aluminum alloy bass unit. You’ll be able to enjoy equal sound quality whether in a large room or small den. Furthermore, you will experience new sensations from old songs since it can respond to even the subtle waveforms.",
+    "includes": [
+      {
+        "quantity": 2,
+        "item": "Speaker unit"
+      },
+      {
+        "quantity": 2,
+        "item": "Speaker cloth panel"
+      },
+      {
+        "quantity": 1,
+        "item": "User manual"
+      },
+      {
+        "quantity": 1,
+        "item": "3.5mm 10m audio cable"
+      },
+      {
+        "quantity": 1,
+        "item": "10m optical cable"
+      }
+    ],
+    "gallery": {
+      "first": {
+        "mobile": "https://ucarecdn.com/db22d831-a511-4a0d-b386-7acdda46b77f/",
+        "tablet": "https://ucarecdn.com/f115ed59-c1b2-4bda-9921-1f3c03464c87/",
+        "desktop": "https://ucarecdn.com/ac5cb2d4-db6d-4b73-bb2b-63245f833e18/"
+      },
+      "second": {
+        "mobile": "https://ucarecdn.com/49fae1a1-43d2-40f4-9890-504f672e6424/",
+        "tablet": "https://ucarecdn.com/6612a1a2-9fb2-4e8f-9b1c-00f39d8a96ba/",
+        "desktop": "https://ucarecdn.com/f8f3030d-ba92-4294-b1ed-cb3893d1fb2b/"
+      },
+      "third": {
+        "mobile": "https://ucarecdn.com/fbe80d58-9ffc-4c67-a99a-e78bd882c2c3/",
+        "tablet": "https://ucarecdn.com/1ce95d21-9345-4c39-9590-b0fa7e2ef79f/",
+        "desktop": "https://ucarecdn.com/052d0080-27e4-4458-a666-3ec909d5d9d6/"
+      }
+    },
+    "others": [
+      {
+        "slug": "zx7-speaker",
+        "name": "ZX7 Speaker",
+        "image": {
+          "mobile": "https://ucarecdn.com/8b71c0bc-f1c8-4735-93e6-39de7556753f/",
+          "tablet": "https://ucarecdn.com/17bf1317-dbb6-401b-80fa-14f470e809f9/",
+          "desktop": "https://ucarecdn.com/409f6804-4159-47b7-be27-58b5286e6acb/"
+        }
+      },
+      {
+        "slug": "xx99-mark-one-headphones",
+        "name": "XX99 Mark I",
+        "image": {
+          "mobile": "https://ucarecdn.com/1b9604b1-2c17-4070-ba01-bf89f98db52c/",
+          "tablet": "https://ucarecdn.com/ab636fd9-287c-4c98-90c1-988b7d6d4c48/",
+          "desktop": "https://ucarecdn.com/2643d1b6-f436-4868-ac72-4fec7486897a/"
+        }
+      },
+      {
+        "slug": "xx59-headphones",
+        "name": "XX59",
+        "image": {
+          "mobile": "https://ucarecdn.com/dfaabfdd-3876-4a2e-af03-8789b603a7d9/",
+          "tablet": "https://ucarecdn.com/2a673070-6127-422c-a358-b4afe8841a75/",
+          "desktop": "https://ucarecdn.com/7fd2c0ce-7ed9-4179-90fe-30f8c00c663c/"
+        }
+      }
+    ]
+  }
+]
