@@ -8,8 +8,9 @@ import { Home } from './components/Home'
 import { Footer } from './components/Footer'
 import { Header } from './components/Header'
 import './style.scss'
-import { CategoriesPage } from './components/Categories'
+import { CategoryPage } from './components/CategoryPage'
 import data from './data.json'
+import { ProductPage } from './components/Productpage'
 
 const categories = [
   {
@@ -36,8 +37,19 @@ root.render(
       <Route path='/' element={<Home />} />
       {categories.map(category => {
         const categoryData = data.filter((element) => element.category === category.name)
-        return (<Route key={category.id} path={`/${category.name}`} element={<CategoriesPage name={category.name} data={categoryData} />} />)
+        return (
+          <Route key={category.id} path={`/${category.name}`} element={<CategoryPage name={category.name} data={categoryData} />}>
+            {data
+              .filter(product => product.category === category.name)
+              .map((product) => {
+                return (
+                  <Route key={product.id} path={`/${product.category}/${product.slug}`} element={<ProductPage product={product} />} />
+                )
+              })}
+          </Route>
+        )
       })}
+
     </Routes>
     <Footer />
   </BrowserRouter>

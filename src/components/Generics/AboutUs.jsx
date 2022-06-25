@@ -3,7 +3,6 @@ import medium from '../../assets/shared/tablet/image-best-gear.jpg'
 import small from '../../assets/shared/mobile/image-best-gear.jpg'
 
 export const AboutUs = () => {
-  console.log(large, small, medium)
   return (
     <section className='container about-us'>
       <div className='about-us__container'>

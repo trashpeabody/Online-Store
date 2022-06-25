@@ -68,6 +68,10 @@ footer {
     font-weight: 700;
     justify-self: flex-end;
 
+    a:hover {
+      color: var(--orange);
+    }
+
     @include breakpoint-down(medium) {
       grid-row: 2;
       grid-column: 1 / 3;

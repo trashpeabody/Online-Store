@@ -1,4 +1,5 @@
 import { Button } from '../generics/Button'
+import { Link } from 'react-router-dom'
 
 export const Product = ({ product }) => {
   return (
@@ -10,7 +11,7 @@ export const Product = ({ product }) => {
           : null}
         <h2>{product.name}</h2>
         <p>{product.description}</p>
-        <Button kind={1} />
+        <Link to={`/${product.category}/${product.slug}`}><Button kind={1} /></Link>
       </div>
     </div>
   )

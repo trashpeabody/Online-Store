@@ -38,7 +38,7 @@ section.highlighted-items {
     color: var(--white);
     background-image: url('./assets/home/desktop/pattern-circles.svg');
     background-repeat: no-repeat;
-    background-position: 50% 120%;
+    background-position: -100% 5%;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -46,6 +46,7 @@ section.highlighted-items {
 
     @include breakpoint-down(medium) {
       height: auto;
+      background-position: 50% 120%;
     }
 
     & > div {
@@ -57,12 +58,13 @@ section.highlighted-items {
     }
 
     img {
-      width: rem(200);
+      width: rem(400);
       align-self: flex-end;
       margin-bottom: rem(-12);
 
       @include breakpoint-down(medium) {
         flex-direction: column;
+        width: rem(200);
         align-self: auto;
         margin-top: rem(52);
       }

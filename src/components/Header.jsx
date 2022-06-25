@@ -35,11 +35,16 @@ export const Header = () => {
     setOpen(!open)
   }
 
+  const closeMenu = () => {
+    document.body.style.overflow = 'auto'
+    setOpen(false)
+  }
+
   return (
     <header className='container'>
       <div className='header'>
         <button className='burger' onClick={toggleMenu} />
-        <Link onClick={toggleMenu} to='/'><img className='header__logo' src={logo} alt='' /></Link>
+        <Link onClick={closeMenu} to='/'><img className='header__logo' src={logo} alt='' /></Link>
         <nav>
           <ul className='header__nav--desktop'>
             <li><Link to='/'>Home</Link></li>
@@ -54,7 +59,7 @@ export const Header = () => {
                   return <li key={category.id}><Category key={category.id} category={category} /></li>
                 })}
               </ul>
-              </div>
+            </div>
             : null}
 
         </nav>
